@@ -10,5 +10,7 @@ public class PractisingGit
         System.out.println( "on Unicorn" );
         System.out.println( "on Ponies" );
         System.out.println( "Fork........." );
+        System.out.println( "Solving Issue (Creating New Issue on Learning Git Repo)" );
+        
     }
 }
