@@ -5,5 +5,6 @@ public class PractisingGit
     public static void main( String[] args )
     {
         System.out.println( "Welcome to GitHub" );
+        System.out.println( "Commit Point 1" );
     }
 }
